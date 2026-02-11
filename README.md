@@ -45,8 +45,5 @@ yarn dev
 
 The flow will execute and display results in your terminal.
 
-Apache-2.0 © Bubble Lab, Inc.
 
----
 
-**Happy Building! 🫧**
