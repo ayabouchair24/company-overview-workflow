@@ -1,9 +1,5 @@
 # Company Snapshot Flow
 
-This is a standalone Node.js project with all dependencies, configuration files, and your flow code pre-configured. Just extract, install, and run!
-
-## Quick Start
-
 ### 1. Extraction
 
 ```bash
